@@ -1,0 +1,90 @@
+{
+  "songs": [
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "adhikaalaiyile_alai.mp3",
+      "song_name": "அதிகாலையிலே அலை ஓசையிலே"
+    },
+    {
+      "artist": "சூலமங்கலம் சகோதரிகள்",
+      "file_name": "azhagellam_murugane.mp3",
+      "song_name": "அழகெல்லாம் முருகனே"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "azhagendra_sollukku.mp3",
+      "song_name": "அழகென்ற சொல்லுக்கு முருகா"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "andru_ketpavan.mp3",
+      "song_name": "அன்று கேட்பவன் அரசன்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "ullam_uruguthaiyaa.mp3",
+      "song_name": "உள்ளம் உருகுதையா"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "unnaiyum_marapathundoo.mp3",
+      "song_name": "உன்னையும் மறப்பதுண்டோ"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "unai_paadum.mp3",
+      "song_name": "உனை பாடும் தொழில்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "enthan_kuralil.mp3",
+      "song_name": "எந்தன் குரலில் இனிப்பதெல்லாம்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "enakum_idamum_undu.mp3",
+      "song_name": "எனக்கும் இடம் உண்டு "
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "ooraru_mugamum.mp3",
+      "song_name": "ஓராறு முகமும் ஈராறு கரமும்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "katpanai_yentralum.mp3",
+      "song_name": "கற்பனை என்றாலும்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "solatha_naal_illai.mp3",
+      "song_name": "சொல்லாத நாளில்லை"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன், சீர்காழி கோவிந்தராஜன்",
+      "file_name": "thiruchendoorin_kadal.mp3",
+      "song_name": "திருச்செந்தூரின் கடலோரத்தில்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "mannanalum_thiruchenduril.mp3",
+      "song_name": "மண்ணானாலும் திருச்செந்தூரில் "
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "muruganai_koopitu_muraitu.mp3",
+      "song_name": "முருகனை கூப்பிட்டு"
+    },
+    {
+      "artist": "சூலமங்கலம் சகோதரிகள்",
+      "file_name": "kanda_sashti_kavacham.mp3",
+      "song_name": "கந்த சஷ்டி கவசம்"
+    },
+    {
+      "artist": "சூலமங்கலம் சகோதரிகள்",
+      "file_name": "skanda_guru_kavasam.mp3",
+      "song_name": "கந்த குரு கவசம்"
+    }
+  ],
+  "version": "1"
+}
