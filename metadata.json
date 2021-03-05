@@ -46,6 +46,11 @@
       "song_name": "எனக்கும் இடம் உண்டு "
     },
     {
+      "artist": "சூலமங்கலம் சகோதரிகள்",
+      "file_name": "ezhaikkoru_deivam.mp3",
+      "song_name": "ஏழைக்கொரு தெய்வம் "
+    },
+    {
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "ooraru_mugamum.mp3",
       "song_name": "ஓராறு முகமும் ஈராறு கரமும்"
@@ -57,13 +62,33 @@
     },
     {
       "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "kodi_kodi_paattum.mp3",
+      "song_name": "கோடி கோடி பாட்டும் கந்தன்"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
       "file_name": "solatha_naal_illai.mp3",
       "song_name": "சொல்லாத நாளில்லை"
+    },
+    {
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "thanigai_endraal.mp3",
+      "song_name": "தணிகை என்றால் அமைதி"
+    },
+    {
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "thanthaiyudan_annai.mp3",
+      "song_name": "தந்தையுடன் அன்னை செய்த"
     },
     {
       "artist": "TM. சௌந்தரராஜன், சீர்காழி கோவிந்தராஜன்",
       "file_name": "thiruchendoorin_kadal.mp3",
       "song_name": "திருச்செந்தூரின் கடலோரத்தில்"
+    },
+    {
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "nee_allal_deivam.mp3",
+      "song_name": "நீயல்லால் தெய்வமில்லை"
     },
     {
       "artist": "TM. சௌந்தரராஜன்",
@@ -84,6 +109,11 @@
       "artist": "சூலமங்கலம் சகோதரிகள்",
       "file_name": "skanda_guru_kavasam.mp3",
       "song_name": "கந்த குரு கவசம்"
+    },
+    {
+      "artist": "SP. பாலசுப்பிரமணியம்",
+      "file_name": "om_saravana_bhava.mp3",
+      "song_name": "ஓம் சரவணபவ மந்திரம்"
     }
   ],
   "version": "1"
