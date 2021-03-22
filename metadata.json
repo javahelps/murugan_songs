@@ -7,6 +7,12 @@
       "song_name": "அதிகாலையிலே அலை ஓசையிலே"
     },
     {
+      "id": 30,
+      "artist": "உன்னிகிருஷ்ணன்",
+      "file_name": "aarathu_aarathu_aarathu.mp3",
+      "song_name": "ஆறாது ஆறாது ஆறாது"
+    },
+    {
       "id": 2,
       "artist": "சூலமங்கலம் சகோதரிகள்",
       "file_name": "azhagellam_murugane.mp3",
@@ -23,6 +29,12 @@
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "andru_ketpavan.mp3",
       "song_name": "அன்று கேட்பவன் அரசன்"
+    },
+    {
+      "id": 28,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "ullathile_nee_irukka.mp3",
+      "song_name": "உள்ளத்திலே நீ இருக்க"
     },
     {
       "id": 5,
@@ -67,10 +79,22 @@
       "song_name": "ஓராறு முகமும் ஈராறு கரமும்"
     },
     {
+      "id": 24,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "kandanukku_pidiththathu.mp3",
+      "song_name": "கந்தனுக்கு பிடித்தது கன்னி தமிழ்தான்"
+    },
+    {
       "id": 12,
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "katpanai_yentralum.mp3",
       "song_name": "கற்பனை என்றாலும்"
+    },
+    {
+      "id": 25,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "kumaran_kural_kodutthan.mp3",
+      "song_name": "குமரன் குரல் கொடுத்தான்"
     },
     {
       "id": 13,
@@ -109,16 +133,40 @@
       "song_name": "நீயல்லால் தெய்வமில்லை"
     },
     {
+      "id": 31,
+      "artist": "உன்னிகிருஷ்ணன்",
+      "file_name": "pazhaniyilae_sanyaasi.mp3",
+      "song_name": "பழநியிலே சந்நியாசி"
+    },
+    {
       "id": 19,
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "mannanalum_thiruchenduril.mp3",
       "song_name": "மண்ணானாலும் திருச்செந்தூரில் "
     },
     {
+      "id": 27,
+      "artist": "நித்யஸ்ரீ மகாதேவன்",
+      "file_name": "mayil_meedhu_vilayadum.mp3",
+      "song_name": "மயில் மீது விளையாடும்"
+    },
+    {
+      "id": 26,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "mailaada_mailaada.mp3",
+      "song_name": "மயிலாட மயிலாட"
+    },
+    {
       "id": 20,
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "muruganai_koopitu_muraitu.mp3",
       "song_name": "முருகனை கூப்பிட்டு"
+    },
+    {
+      "id": 29,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "vadivelan_kudi_kondu.mp3",
+      "song_name": "வடிவேலன் குடி கொண்டு"
     },
     {
       "id": 21,
