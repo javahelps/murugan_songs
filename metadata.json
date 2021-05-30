@@ -7,10 +7,10 @@
       "song_name": "அதிகாலையிலே அலை ஓசையிலே"
     },
     {
-      "id": 30,
-      "artist": "உன்னிகிருஷ்ணன்",
-      "file_name": "aarathu_aarathu_aarathu.mp3",
-      "song_name": "ஆறாது ஆறாது ஆறாது"
+      "id": 34,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "arunagiri_paravuthiru.mp3",
+      "song_name": "அருணகிரி பரவுதிரு அடிகள்"
     },
     {
       "id": 2,
@@ -29,6 +29,18 @@
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "andru_ketpavan.mp3",
       "song_name": "அன்று கேட்பவன் அரசன்"
+    },
+    {
+      "id": 30,
+      "artist": "உன்னிகிருஷ்ணன்",
+      "file_name": "aarathu_aarathu_aarathu.mp3",
+      "song_name": "ஆறாது ஆறாது ஆறாது"
+    },
+    {
+      "id": 33,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "aaru_mugam_irukka.mp3",
+      "song_name": "ஆறுமுகம் இருக்க அவன் கை வேல்"
     },
     {
       "id": 28,
@@ -91,6 +103,12 @@
       "song_name": "கற்பனை என்றாலும்"
     },
     {
+      "id": 34,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "kanalil_karuvaki.mp3",
+      "song_name": "கனலில் கருவாகி புனலில்"
+    },
+    {
       "id": 25,
       "artist": "சீர்காழி கோவிந்தராஜன்",
       "file_name": "kumaran_kural_kodutthan.mp3",
@@ -101,6 +119,12 @@
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "kodi_kodi_paattum.mp3",
       "song_name": "கோடி கோடி பாட்டும் கந்தன்"
+    },
+    {
+      "id": 36,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "chinnanchiru_pillai.mp3",
+      "song_name": "சின்னஞ்சிறு பிள்ளை"
     },
     {
       "id": 14,
@@ -119,6 +143,12 @@
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "thanthaiyudan_annai.mp3",
       "song_name": "தந்தையுடன் அன்னை செய்த"
+    },
+    {
+      "id": 35,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "thithikka_thithikka_muthu.mp3",
+      "song_name": "தித்திக்க தித்திக்க முத்து நகை"
     },
     {
       "id": 17,
@@ -157,6 +187,12 @@
       "song_name": "மயிலாட மயிலாட"
     },
     {
+      "id": 37,
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "murugan_ennum_pearazhagu.mp3",
+      "song_name": "முருகன் என்னும் பேரழகு"
+    },
+    {
       "id": 20,
       "artist": "TM. சௌந்தரராஜன்",
       "file_name": "muruganai_koopitu_muraitu.mp3",
@@ -169,6 +205,12 @@
       "song_name": "வடிவேலன் குடி கொண்டு"
     },
     {
+      "id": 32,
+      "artist": "TM. சௌந்தரராஜன்",
+      "file_name": "vealundu_vinai_neekka.mp3",
+      "song_name": "வேலுண்டு வினை நீக்க"
+    },
+    {
       "id": 21,
       "artist": "சூலமங்கலம் சகோதரிகள்",
       "file_name": "kanda_sashti_kavacham.mp3",
@@ -179,6 +221,12 @@
       "artist": "சூலமங்கலம் சகோதரிகள்",
       "file_name": "skanda_guru_kavasam.mp3",
       "song_name": "கந்த குரு கவசம்"
+    },
+    {
+      "id": 38,
+      "artist": "சீர்காழி கோவிந்தராஜன்",
+      "file_name": "shanmuga_kavasam.mp3",
+      "song_name": "சண்முக கவசம்"
     },
     {
       "id": 23,
